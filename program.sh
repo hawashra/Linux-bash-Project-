@@ -25,7 +25,8 @@ echo -ne '\e[32m' '\n		1. Show or print student records (all semesters).
 		8. Show or print the total number of courses taken.
 		9. Show or print the total number of labs taken.
 		10. Insert the new semester record.
-		11. Change in course grade.\n\n'"$reset"
+		11. Change in course grade.
+		0. Exit the program\n\n'"$reset"
 
 }
 
